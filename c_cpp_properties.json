@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Programs\\Mingw64\\include\\**",
+                "C:\\Programs\\Mingw64\\x86_64-w64-mingw32\\include\\**",
+                "C:\\Programs\\OpenCV-MinGW-4.5.2\\include",
+                "C:\\Programs\\OpenCV-MinGW-4.5.2\\include\\opencv2",
+                "C:\\Programs\\OpenCV-MinGW-4.5.2\\x64\\mingw\\lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Programs/Mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
