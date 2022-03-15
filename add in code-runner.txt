@@ -1,0 +1,3 @@
+"code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -IC:/Programs/OpenCV-MinGW-4.5.2/include -LC:/Programs/OpenCV-MinGW-4.5.2/x64/mingw/bin -llibopencv_calib3d452 -llibopencv_core452 -llibopencv_dnn452 -llibopencv_features2d452 -llibopencv_flann452 -llibopencv_gapi452 -llibopencv_highgui452 -llibopencv_imgcodecs452 -llibopencv_imgproc452 -llibopencv_ml452 -llibopencv_objdetect452 -llibopencv_photo452 -llibopencv_stitching452 -llibopencv_video452 -llibopencv_videoio452 && $dir$fileNameWithoutExt"
+    }
