@@ -10,9 +10,8 @@
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-IC:/Programs/OpenCV-MinGW-4.5.2/include",
-                "-IC:/Programs/OpenCV-MinGW-4.5.2/include/opencv2",
-                "-LC:/Programs/OpenCV-MinGW-4.5.2/x64/mingw/bin",
+                "-IC:/Programs/OpenCV-MinGW-4.5.2/include",            //header file path
+                "-LC:/Programs/OpenCV-MinGW-4.5.2/x64/mingw/bin",      //dll path
                 "-llibopencv_calib3d452",
                 "-llibopencv_core452",
                 "-llibopencv_dnn452",
