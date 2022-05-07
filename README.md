@@ -1,2 +1,2 @@
 # opencv-.vscode
-.vscode for huihut/OpenCV-MinGW-Build
+.vscode for OpenCV
