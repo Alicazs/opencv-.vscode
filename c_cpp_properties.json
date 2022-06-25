@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:\\Programs\\Mingw64\\include",            //MingW64 include path
-                "C:\\Programs\\OpenCV-MinGW-4.5.2\\include"  //OpenCV include path
+                "C:\\Programs\\OpenCV-MinGW-4.5.2\\include",  //OpenCV include path
+                "C:\\Programs\\OpenCV-MinGW-4.5.2\\x64\\mingw\\bin"
             ],
             "defines": [
                 "_DEBUG",
