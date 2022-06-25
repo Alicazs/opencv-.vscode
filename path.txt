@@ -1,0 +1,4 @@
+path
+
+C:\Programs\Mingw64\bin
+C:\Programs\OpenCV-MinGW-4.5.2\x64\mingw\bin
